@@ -20,7 +20,7 @@ reset-node-mongo-postman_collection.json file to your API development platform(p
 
 ### Installation
 - `cp .env.example .env`
-- `npm i & npm run dev`
+- `npm i && npm run dev`
 
 
 
