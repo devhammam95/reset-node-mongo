@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "72cf3660-029e-4e18-9db0-d1e91beb6388",
+		"_postman_id": "5c793c53-444b-437e-954b-5987ddf06c8b",
 		"name": "rest-node-mongo",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "3745191"
@@ -103,7 +103,7 @@
 				}
 			},
 			"request": {
-				"method": "POST",
+				"method": "PUT",
 				"header": [
 					{
 						"key": "Accept",
@@ -144,7 +144,7 @@
 				}
 			},
 			"request": {
-				"method": "POST",
+				"method": "DELETE",
 				"header": [
 					{
 						"key": "Accept",
